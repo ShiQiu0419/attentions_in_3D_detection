@@ -32,5 +32,16 @@ Set up the [VoteNet](https://github.com/facebookresearch/votenet) project, and r
 The trained models can be downloaded from [google drive](https://drive.google.com/file/d/1ZMrZqQEp1or-ZlUU3I_kQ61bETI3pQXr/view?usp=sharing).  
 The detailed evaluation logs reported in the paper can be found at [google drive](https://drive.google.com/file/d/1MrhJt6CwoD7clJIlAze_eaB2AeFiCKxK/view?usp=sharing).
 
+## Paper and citation
+The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2103.07074).  
+If you find our paper/codes/results are useful, please cite:
+
+    @article{qiu2021investigating,
+      title={Investigating Attention Mechanism in 3D Point Cloud Object Detection},
+      author={Qiu, Shi and Wu, Yunfan and Anwar, Saeed and Li, Chongyi},
+      journal={arXiv preprint arXiv:2103.07074},
+      year={2021}
+    }
+
 ## Acknowledgment
 The code is built on [VoteNet](https://github.com/facebookresearch/votenet). We thank the authors for sharing the codes.
