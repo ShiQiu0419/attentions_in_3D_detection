@@ -6,3 +6,6 @@ This repository is for BAAF-Net introduced in the following paper:
 
 ## Abstract
 This project investigates the effects of five classical 2D attention modules (**Non-local, Criss-cross, SE, CBAM, Dual-attention**) and five novel 3D attention modules (**A-SCN, Point-Attention, CAA, Offset-Attention, Point-Transformer**) in 3D point cloud object detection, based on VoteNet pipeline.
+
+## Settings
+Set up the [VoteNet](https://github.com/facebookresearch/votenet) project, and replace the ```models/backbone_module.py``` file with ours.
