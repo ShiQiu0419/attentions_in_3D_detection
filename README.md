@@ -15,11 +15,16 @@ This project investigates the effects of five classical 2D attention modules (**
   <img width="600" src="https://github.com/ShiQiu0419/attentions_in_3D_detection/blob/main/fig4.png">
 </p>  
 
-## Settings
-Set up the [VoteNet](https://github.com/facebookresearch/votenet) project, and replace the ```models/backbone_module.py``` file with ours.
-
 ## Results
 <p align="center">
   <img width="1200" src="https://github.com/ShiQiu0419/attentions_in_3D_detection/blob/main/fig1.png">
-</p>  
+</p> 
+
+## Visualization
+<p align="center">
+  <img width="1200" src="https://github.com/ShiQiu0419/attentions_in_3D_detection/blob/main/fig2.png">
+</p> 
+
+## Settings
+Set up the [VoteNet](https://github.com/facebookresearch/votenet) project, and replace the ```models/backbone_module.py``` file with ours.
 
