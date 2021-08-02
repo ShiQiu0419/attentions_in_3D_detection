@@ -10,8 +10,9 @@ This project investigates the effects of five classical 2D attention modules (**
   <img width="1200" src="https://github.com/ShiQiu0419/attentions_in_3D_detection/blob/main/fig3.png">
 </p>  
 
+## Our Attentional Backbone
 <p align="center">
-  <img width="1200" src="https://github.com/ShiQiu0419/attentions_in_3D_detection/blob/main/fig4.png">
+  <img width="600" src="https://github.com/ShiQiu0419/attentions_in_3D_detection/blob/main/fig4.png">
 </p>  
 
 ## Settings
