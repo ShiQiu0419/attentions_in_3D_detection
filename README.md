@@ -28,3 +28,5 @@ This project investigates the effects of five classical 2D attention modules (**
 ## Settings
 Set up the [VoteNet](https://github.com/facebookresearch/votenet) project, and replace the ```models/backbone_module.py``` file with ours.
 
+## Acknowledgment
+The code is built on [VoteNet](https://github.com/facebookresearch/votenet). We thank the authors for sharing the codes.
