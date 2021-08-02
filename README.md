@@ -5,7 +5,7 @@ This repository is for the following paper:
 [Shi Qiu](https://shiqiu0419.github.io/)\*, Yunfan Wu\*, [Saeed Anwar](https://saeed-anwar.github.io/), [Chongyi Li](https://li-chongyi.github.io/)
 
 ## Abstract
-This project investigates the effects of five classical 2D attention modules (**Non-local, Criss-cross, SE, CBAM, Dual-attention**) and five novel 3D attention modules (**A-SCN, Point-Attention, CAA, Offset-Attention, Point-Transformer**) in 3D point cloud object detection, based on VoteNet pipeline.
+This project investigates the effects of five classical 2D attention modules (**Non-local, Criss-cross, Squeeze-Excitation, CBAM, Dual-attention**) and five novel 3D attention modules (**Attentional-ShapeContextNet, Point-Attention, Channle Affinity Attention, Offset-Attention, Point-Transformer**) in 3D point cloud object detection, based on VoteNet pipeline.
 <p align="center">
   <img width="1200" src="https://github.com/ShiQiu0419/attentions_in_3D_detection/blob/main/fig3.png">
 </p>  
