@@ -30,7 +30,7 @@ Set up the [VoteNet](https://github.com/facebookresearch/votenet) project, and r
 
 ## Trained-models
 The trained models can be downloaded from [google drive](https://drive.google.com/file/d/1ZMrZqQEp1or-ZlUU3I_kQ61bETI3pQXr/view?usp=sharing).  
-The evaluation results are reported in our paper.
+The detailed evaluation logs reported in the paper can be found at [google drive](https://drive.google.com/file/d/1MrhJt6CwoD7clJIlAze_eaB2AeFiCKxK/view?usp=sharing).
 
 ## Acknowledgment
 The code is built on [VoteNet](https://github.com/facebookresearch/votenet). We thank the authors for sharing the codes.
