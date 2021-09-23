@@ -636,7 +636,7 @@ class Point_Transformer(nn.Module):
         self.conv_theta2 = nn.Conv2d(input_features_dim, input_features_dim, 1)
         self.bn_conv_theta = nn.BatchNorm2d(input_features_dim)
 
-        self.conv_phi = nn.Conv2d(3, input_features_dim, 1)
+        self.conv_phi = nn.Conv2d(input_features_dim, input_features_dim, 1)
         self.conv_psi = nn.Conv2d(input_features_dim, input_features_dim, 1)
         self.conv_alpha = nn.Conv2d(input_features_dim, input_features_dim, 1)
 
@@ -650,7 +650,7 @@ class Point_Transformer(nn.Module):
 
         delta = F.relu(self.bn_conv_theta(self.conv_theta2(self.conv_theta1(position_vector)))) # B,C,N,k
 
-        x_i = torch.unsqueeze(xyz, dim=-1).repeat(1, 1, 1, k) # B,3,N,k
+        x_i = torch.unsqueeze(features, dim=-1).repeat(1, 1, 1, k) # B,C,N,k
 
         linear_x_i = self.conv_phi(x_i) # B,C,N,k
 
