@@ -649,7 +649,7 @@ class Point_Transformer(nn.Module):
         position_vector, x_j = transformer_neighbors(xyz, features, k=k)
 
         delta = F.relu(self.bn_conv_theta(self.conv_theta2(self.conv_theta1(position_vector)))) # B,C,N,k
-
+        # corrections for x_i
         x_i = torch.unsqueeze(features, dim=-1).repeat(1, 1, 1, k) # B,C,N,k
 
         linear_x_i = self.conv_phi(x_i) # B,C,N,k
