@@ -2,7 +2,7 @@
 
 This repository is for the following paper:
 "Investigating Attention Mechanism in 3D Point Cloud Object Detection"  
-Accepted in International Conference on 3D Vision (3DV 2021)  
+International Conference on 3D Vision (3DV 2021)  
 [Shi Qiu](https://shiqiu0419.github.io/)\*, Yunfan Wu\*, [Saeed Anwar](https://saeed-anwar.github.io/), [Chongyi Li](https://li-chongyi.github.io/)
 
 ## Paper and citation
