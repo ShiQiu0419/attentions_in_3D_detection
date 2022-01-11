@@ -9,10 +9,11 @@ International Conference on 3D Vision (3DV 2021)
 The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2108.00620).  
 If you find our paper/codes/results are useful, please cite:
 
-    @article{qiu2021investigating,
+    @inproceedings{qiu2021investigating,
       title={Investigating Attention Mechanism in 3D Point Cloud Object Detection},
       author={Qiu, Shi and Wu, Yunfan and Anwar, Saeed and Li, Chongyi},
-      journal={arXiv preprint arXiv:2108.00620},
+      booktitle={2021 International Conference on 3D Vision (3DV)},
+      pages={403-412},
       year={2021}
     }
 
