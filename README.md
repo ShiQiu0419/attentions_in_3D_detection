@@ -6,7 +6,7 @@ International Conference on 3D Vision (3DV 2021)
 [Shi Qiu](https://shiqiu0419.github.io/)\*, Yunfan Wu\*, [Saeed Anwar](https://saeed-anwar.github.io/), [Chongyi Li](https://li-chongyi.github.io/)
 
 ## Paper and citation
-The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2108.00620).  
+The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2108.00620) and [here (ieee)](https://ieeexplore.ieee.org/document/9665862).  
 If you find our paper/codes/results are useful, please cite:
 
     @inproceedings{qiu2021investigating,
